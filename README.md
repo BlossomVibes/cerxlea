@@ -1,4 +1,4 @@
-# Welcome to the GBA emulator
+# Welcome to the GBA emulator originally created by browncha023, forked by aray03
 
 GBA Emulator is a free, online GBA emulator with 150+ Games to play!
 
@@ -6,10 +6,8 @@ GBA Emulator is a free, online GBA emulator with 150+ Games to play!
 
 https://browncha023.github.io/GBA/
 
+https://aray03.github.io/
+
 # EIC Version
 
-https://gba.endinternetcensorship.repl.co/
-
 <br>
-
-# ⚠️This Project Is No Longer Supported!⚠️
