@@ -1,4 +1,4 @@
-# Welcome to the GBA emulator originally created by browncha023, forked by aray03
+# Welcome to the GBA emulator originally created by browncha023, edited by blossomvibes
 
 GBA Emulator is a free, online GBA emulator with 150+ Games to play!
 
